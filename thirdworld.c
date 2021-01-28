@@ -9,7 +9,7 @@ int main(int argc, char *argv)
 	int i;
 	
 	for (i = 0; i < 5; i++) {
-		printf (" %d \n", i);
+		printf (" %d \n", (i + 10));
 	}
 	
 	// Adding new line of comment
