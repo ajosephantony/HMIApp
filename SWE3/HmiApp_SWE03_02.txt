@@ -3,3 +3,5 @@ new line
 document
 one change
 next change
+
+for new commit
